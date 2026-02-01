@@ -38,6 +38,7 @@ Hands-on 1: An Introduction to RAG Through Chatbot Experiment Design with Stream
 - **발표자 환경**: Windows  
 - **실습**: 온라인(Google Colab, Streamlit) → OS 무관  
 
+---
 
 ## Lunch and Networking
 
