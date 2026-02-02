@@ -1,5 +1,5 @@
 # Session 1. An Introduction to RAG Through Chatbot Experiment Design with Streamlit
-## 발표자: 안선우
+### 발표자: 안선우
 
 **Build your own AI Co-Scientist Workshop - February 2026**
 
