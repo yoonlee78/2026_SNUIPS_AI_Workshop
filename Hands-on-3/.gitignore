@@ -48,10 +48,10 @@ agentreview/
 outputs/*
 !outputs/3_agent_result/
 outputs/3_agent_result/*
-!outputs/3_agent_result/review.json
+!outputs/3_agent_result/sample_review.json
 !outputs/4_comparison_result/
 outputs/4_comparison_result/*
-!outputs/4_comparison_result/comparison.html
+!outputs/4_comparison_result/sample_comparison.html
 
 # Human reviews - 참가자별 수집 리뷰 제외 (예시 파일 제외)
 input/human_reviews/*
