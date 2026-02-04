@@ -16,6 +16,9 @@ Workshop Page: https://sites.google.com/view/snuaipsychworkshop/home
 
 ## Opening Remarks by Prof. Jiook Cha 
 
+- **주제**: Agentic AI × Neuroscience: 행동=예측=질문
+- **발표 자료**: [개회사 PDF 링크](https://drive.google.com/file/d/1zhJBZ0WLIgtQS7-nbY4MXnP1PnBCSXf5/view?usp=sharing)
+
 ## Talk by Dr. Yoon Kyung Lee
 
 Title: Agentic AI: Build your own Co-Scientist 
