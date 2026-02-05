@@ -21,7 +21,8 @@ Workshop Page: https://sites.google.com/view/snuaipsychworkshop/home
 
 ## Talk by Dr. Yoon Kyung Lee
 
-Title: Agentic AI: Build your own Co-Scientist 
+- **제목**: Title: Agentic AI: Build your own Co-Scientist 
+- **발표 자료**: [발표 자료 링크](https://www.canva.com/design/DAHAD39jPC8/7fu3rb0hkE6NTMKLo0yzfg/view?utm_content=DAHAD39jPC8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha8a992bd5d)
 
 ## Hands-on Session 1. Seonu An 
 
